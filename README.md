@@ -1,4 +1,4 @@
-# Git 201
+# Git 101
 
 This repository contains materials used for Git 101 talk
 
