@@ -14,6 +14,10 @@ Ruby script and powered by [reveal.js](https://revealjs.com/).
 3. ????
 4. PROFIT
 
+## GitHub Pages
+
+If you have internet access then you can see the slides at http://asi-pwr.github.io/git101/slides/
+
 ## Development
 
 1. Install latest Pandoc and Ruby
