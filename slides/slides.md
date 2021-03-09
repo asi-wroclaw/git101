@@ -285,9 +285,9 @@ Essentially branch is a movable pointer to one of these commits.
 
 ## How does Git know where am I?
 
-It uses it's HEAD (please don't judge me).
+It uses its HEAD (please don't judge me).
 
-## Git using it's HEAD
+## Git using its HEAD
 
 ![HEAD pointing to a branch](images/head-to-master.png){.stretch}\ 
 
