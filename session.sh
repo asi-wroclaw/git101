@@ -1,6 +1,6 @@
 #doitlive shell: /bin/bash
 #doitlive speed: 3
-#doitlive prompt: {user.red}@{hostname.green} {dir.magenta} {vcs_branch.yellow} $
+#doitlive prompt: {user.red}@{hostname.green}:{dir.magenta}({vcs_branch.yellow})$
 #doitlive commentecho: true
 
 # Introduce yourself
@@ -17,6 +17,7 @@ git config --list
 
 # Alias demonstration
 
+git config --global alias.glog "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 git glog
 
 # Creating a git repository
@@ -118,6 +119,7 @@ git push github master
 cd ..
 
 # Branching
+tar xvf branching_example.tar.gz
 
 # Inspect the project
 cd branching_example
