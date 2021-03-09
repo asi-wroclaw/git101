@@ -363,7 +363,7 @@ We're working on a website and we're writing a new story. Suddenly we receive a 
 
 ## Conflicts
 
-Conflits happen more often than don't. First rule: don't panic.
+Conflits happen more often than not. First rule: don't panic.
 
 ## Example
 
