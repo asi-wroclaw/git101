@@ -80,7 +80,9 @@ core.editor=vim
 
 `git glog`
 
-Check Facebook event page for details
+```
+git config --global alias.glog "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
 
 ## Snapshots instead of differences
 
