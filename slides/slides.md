@@ -110,7 +110,7 @@ Don't have internet connection? Not a problem. <small>*cough* unlike Subversion 
 
 Hark for this is main thing to remember from this section if you want your learning to proceed smoothly.
 
-Git has three states that your files can reside in: commited, modified, and staged.
+Git has three states that your files can reside in: modified, staged, commited.
 
 ## Three states
 
