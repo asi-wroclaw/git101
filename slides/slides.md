@@ -73,10 +73,7 @@ You can check your settings with `git config --list`
 $ git config --list
 user.name=Michał Zając
 user.email=michal.zajac@gmail.com
-user.signingkey=79313F09
-push.default=simple
-pull.rebase=preserve
-alias.s=status -s
+core.editor=vim
 ```
 
 ## I will be using an alias
